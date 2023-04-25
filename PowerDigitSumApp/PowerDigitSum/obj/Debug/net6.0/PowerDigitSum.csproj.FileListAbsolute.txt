@@ -1,0 +1,15 @@
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\bin\Debug\net6.0\PowerDigitSum.exe
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\bin\Debug\net6.0\PowerDigitSum.deps.json
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\bin\Debug\net6.0\PowerDigitSum.runtimeconfig.json
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\bin\Debug\net6.0\PowerDigitSum.dll
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\bin\Debug\net6.0\PowerDigitSum.pdb
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\obj\Debug\net6.0\PowerDigitSum.csproj.AssemblyReference.cache
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\obj\Debug\net6.0\PowerDigitSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\obj\Debug\net6.0\PowerDigitSum.AssemblyInfoInputs.cache
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\obj\Debug\net6.0\PowerDigitSum.AssemblyInfo.cs
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\obj\Debug\net6.0\PowerDigitSum.csproj.CoreCompileInputs.cache
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\obj\Debug\net6.0\PowerDigitSum.dll
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\obj\Debug\net6.0\refint\PowerDigitSum.dll
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\obj\Debug\net6.0\PowerDigitSum.pdb
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\obj\Debug\net6.0\PowerDigitSum.genruntimeconfig.cache
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\PowerDigitSumApp\PowerDigitSum\obj\Debug\net6.0\ref\PowerDigitSum.dll
