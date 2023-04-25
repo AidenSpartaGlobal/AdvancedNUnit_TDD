@@ -1,0 +1,15 @@
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\obj\Debug\net6.0\StringCalc.csproj.AssemblyReference.cache
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\obj\Debug\net6.0\StringCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\obj\Debug\net6.0\StringCalc.AssemblyInfoInputs.cache
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\obj\Debug\net6.0\StringCalc.AssemblyInfo.cs
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\obj\Debug\net6.0\StringCalc.csproj.CoreCompileInputs.cache
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\bin\Debug\net6.0\StringCalc.exe
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\bin\Debug\net6.0\StringCalc.deps.json
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\bin\Debug\net6.0\StringCalc.runtimeconfig.json
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\bin\Debug\net6.0\StringCalc.dll
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\bin\Debug\net6.0\StringCalc.pdb
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\obj\Debug\net6.0\StringCalc.dll
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\obj\Debug\net6.0\refint\StringCalc.dll
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\obj\Debug\net6.0\StringCalc.pdb
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\obj\Debug\net6.0\StringCalc.genruntimeconfig.cache
+C:\Users\Samiur Rahman\Documents\Sparta\AdcancedNUnit_TDD\AdvancedNUnit_TDD\StringCalc\StringCalc\obj\Debug\net6.0\ref\StringCalc.dll
