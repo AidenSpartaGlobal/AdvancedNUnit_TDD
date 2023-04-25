@@ -1,0 +1,15 @@
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\bin\Debug\net6.0\SumSquareDifference.exe
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\bin\Debug\net6.0\SumSquareDifference.deps.json
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\bin\Debug\net6.0\SumSquareDifference.runtimeconfig.json
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\bin\Debug\net6.0\SumSquareDifference.dll
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\bin\Debug\net6.0\SumSquareDifference.pdb
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\obj\Debug\net6.0\SumSquareDifference.csproj.AssemblyReference.cache
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\obj\Debug\net6.0\SumSquareDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\obj\Debug\net6.0\SumSquareDifference.AssemblyInfoInputs.cache
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\obj\Debug\net6.0\SumSquareDifference.AssemblyInfo.cs
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\obj\Debug\net6.0\SumSquareDifference.csproj.CoreCompileInputs.cache
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\obj\Debug\net6.0\SumSquareDifference.dll
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\obj\Debug\net6.0\refint\SumSquareDifference.dll
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\obj\Debug\net6.0\SumSquareDifference.pdb
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\obj\Debug\net6.0\SumSquareDifference.genruntimeconfig.cache
+C:\Users\Aiden\source\repos\NUnit_Advanced\AdvancedNUnit_TDD\SumSquareDifferenceApp\SumSquareDifference\obj\Debug\net6.0\ref\SumSquareDifference.dll
